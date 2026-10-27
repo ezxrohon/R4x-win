@@ -46,6 +46,7 @@ API_ID = 34408569
 API_HASH = '7dd316b404a08b9a6ac4addb0e61f8a8'
 OWNER_ID = 8659558306
 SESSION = "BAFwyZ4AHNFBmqKg1k49Gq-HgbVVhhCN3d6x9T4O4tFfSh_QOiPxjJTtkdwleTeEapy2SSTljTpX9gjP1H_WYUcAaqC-NqUm0cmFETAcNEg3lyuWk-HJsJgunZWsZcKUjYqDdtXO3bjC_FBQ9kahal7DSAsggmVRSH7IBBm3h-dVCfOv8xo_PD5tcMfFx-yPkpUIlTeiKoTXlEYwtrMg6Um_XaWyOc_x3pQEzpzX6aHKMb9jeHdxvFLUyxhrP1AJ2x1b_uCceFmhzNryGs-G1YIyGz-GLDZw1klWclrCwtmg5w3NiNzSgRGBINNcQKb46oe057cV1e2XPL-fLqouIlKZDtK-wgAAAAIEJl-iAA"
+
 bot = TelegramClient(
     StringSession(SESSION),
     API_ID,
