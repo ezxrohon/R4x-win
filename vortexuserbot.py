@@ -26,6 +26,7 @@ import yt_dlp
 #                 TELETHON
 # ────────────────────────────────────────────────
 from telethon import TelegramClient, events, functions, types
+from telethon.sessions import StringSession
 from telethon.errors import FloodWaitError, RPCError
 
 # ────────────────────────────────────────────────
