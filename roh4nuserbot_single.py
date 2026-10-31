@@ -14,7 +14,7 @@ CONFIG_OWNER_ID = "8659558306"               # Your numeric Telegram user ID
 CONFIG_SESSION = "1BJWap1sBu3kqDlpH3uddXr62QgbSgvpV3meBq1E5GiUlaAPJF44Hy5Qqwiv8BZjhqfLdFWxsQh6oIqTyGb4qctIVT1FbNeaFblTnHNQKDD92WRZuegSybFnJFNDsfm67HFrO4KMdsMBPHITziDkd4wvUfhUyOPjh3ishPNr1HbPMqexCi2qFsde92RHaRXQmowbI8OBM2P-0fiH8ubt2E8WySVojp5mkylQXstSTc_ptJvNzlnYbOELN2tQeUiaLkaWz-XgSniSFOZT_ga6otCFpdWqzwynTSwQmGo2fsrcAbK6oNLpaYvps1ePqwO8CxoAVkZY0j3xB_Ed3KcIZkwnisIUtlJk="                 # Main userbot StringSession
 
 # ---- Music command bot (Pyrogram) ----
-CONFIG_BOT_TOKEN = ""               # Bot token from @BotFather
+CONFIG_BOT_TOKEN = "8924519879:AAFKmiHs3vtK8SigcTB8STBV8Qo20VTlx0A"               # Bot token from @BotFather
 CONFIG_STRING_SESSION = ""          # Separate assistant account session for voice chats
 
 # ---- Music API ----
