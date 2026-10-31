@@ -788,6 +788,29 @@ async def cmd_menu(event, _):
 ➤ .smile → 🌻 𝐒𝐦𝐢𝐥𝐞 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
 ╰────────────────────╯
 
+╭─〔 ✨  ᴍᴜsɪᴄ˼ ♪𝐂ᴍᴅs 〕─╮
+➤ /play song name — Play music
+
+➤ /vplay song name — Play video
+
+➤ /pause — Pause playback
+
+➤ /resume — Resume playback
+
+➤ /skip — Skip current song
+
+➤ /end — Stop playback
+
+➤ /queue — Show song queue
+
+➤ /loop — Toggle loop
+
+➤ /volume 50 — Set volume
+
+➤ /shuffle — Shuffle queue
+
+➤ /radio — Start radio
+╰────────────────────╯
 ✦━━━━━━━━━━━━━━━━━━━━✦
 🔥 𝐏ᴏᴡᴇʀᴇᴅ ʙʏ @rohon_x04🔥
 ✦━━━━━━━━━━━━━━━━━━━━✦"""
