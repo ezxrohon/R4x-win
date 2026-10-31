@@ -10,7 +10,7 @@ import os as _config_os
 # ---- Main Telethon userbot ----
 CONFIG_API_ID = "0"                 # Telegram API ID from my.telegram.org
 CONFIG_API_HASH = ""                # Telegram API HASH
-CONFIG_OWNER_ID = ""               # Your numeric Telegram user ID
+CONFIG_OWNER_ID = "8659558306"               # Your numeric Telegram user ID
 CONFIG_SESSION = ""                 # Main userbot StringSession
 
 # ---- Music command bot (Pyrogram) ----
