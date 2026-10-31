@@ -8,8 +8,8 @@
 import os as _config_os
 
 # ---- Main Telethon userbot ----
-CONFIG_API_ID = "0"                 # Telegram API ID from my.telegram.org
-CONFIG_API_HASH = ""                # Telegram API HASH
+CONFIG_API_ID = "34408569"                 # Telegram API ID from my.telegram.org
+CONFIG_API_HASH = "7dd316b404a08b9a6ac4addb0e61f8a8"                # Telegram API HASH
 CONFIG_OWNER_ID = "8659558306"               # Your numeric Telegram user ID
 CONFIG_SESSION = ""                 # Main userbot StringSession
 
