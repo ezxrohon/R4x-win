@@ -15,7 +15,7 @@ CONFIG_SESSION = "1BJWap1sBu3kqDlpH3uddXr62QgbSgvpV3meBq1E5GiUlaAPJF44Hy5Qqwiv8B
 
 # ---- Music command bot (Pyrogram) ----
 CONFIG_BOT_TOKEN = "8924519879:AAFKmiHs3vtK8SigcTB8STBV8Qo20VTlx0A"               # Bot token from @BotFather
-CONFIG_STRING_SESSION = ""          # Separate assistant account session for voice chats
+CONFIG_STRING_SESSION = "1AZWarzQBuyqQDu-X101J7-uUzB9RJhBF4r8KKsKN4KA9RLSYWhOOFG250idEYJRKDS1p_nWmiiYHQjVsJQ3NRlAaxpDeRYbCUo726h7e1IE3os2lH9kA3HyOey0tvAi_aome2T6XEhi-F7QK-0b94naHraYDFC_L2rqWkKzKvFmKOvLrI5UYyfQ9Oh5gDd8lu8N0DYxbfsPjU2MaphjGZahVJnQaNYMcu2g90ToJaVU4-0vpMwY1HfFO8YDtD9aFEGHNLo2saUiQln34a2zlSLvHVSPaQRGncfnNRmMBh0HkpzJku9Xl0ju-frrtImKCbEjI2Xbl0kkZ901pewhaxMoCYqatAMcKOWLiseRGj5RFHC8DmPWlsY1E="          # Separate assistant account session for voice chats
 
 # ---- Music API ----
 CONFIG_MUSIC_API_URL = "https://music.yukiapi.site"
