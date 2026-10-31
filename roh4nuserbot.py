@@ -23,7 +23,7 @@ CONFIG_MUSIC_API_KEY = ""           # API key from the music API provider
 
 # Optional Firebase settings (only needed for features that use Firebase)
 CONFIG_FIREBASE_URL = "https://elinamusicrobot-default-rtdb.firebaseio.com/"
-CONFIG_FIREBASE_SECRET = ""
+CONFIG_FIREBASE_SECRET = "L2Y1culAAW3r04fsNsvlulmKgAVzdgqoV6kBX8Hn"
 
 # Make the embedded music package read the same settings.
 _CONFIG_ENV = {
