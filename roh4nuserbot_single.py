@@ -11,7 +11,7 @@ import os as _config_os
 CONFIG_API_ID = "34408569"                 # Telegram API ID from my.telegram.org
 CONFIG_API_HASH = "7dd316b404a08b9a6ac4addb0e61f8a8"                # Telegram API HASH
 CONFIG_OWNER_ID = "8659558306"               # Your numeric Telegram user ID
-CONFIG_SESSION = ""                 # Main userbot StringSession
+CONFIG_SESSION = "1BJWap1sBu3kqDlpH3uddXr62QgbSgvpV3meBq1E5GiUlaAPJF44Hy5Qqwiv8BZjhqfLdFWxsQh6oIqTyGb4qctIVT1FbNeaFblTnHNQKDD92WRZuegSybFnJFNDsfm67HFrO4KMdsMBPHITziDkd4wvUfhUyOPjh3ishPNr1HbPMqexCi2qFsde92RHaRXQmowbI8OBM2P-0fiH8ubt2E8WySVojp5mkylQXstSTc_ptJvNzlnYbOELN2tQeUiaLkaWz-XgSniSFOZT_ga6otCFpdWqzwynTSwQmGo2fsrcAbK6oNLpaYvps1ePqwO8CxoAVkZY0j3xB_Ed3KcIZkwnisIUtlJk="                 # Main userbot StringSession
 
 # ---- Music command bot (Pyrogram) ----
 CONFIG_BOT_TOKEN = ""               # Bot token from @BotFather
