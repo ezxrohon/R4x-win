@@ -19,7 +19,7 @@ CONFIG_STRING_SESSION = "1AZWarzQBuyqQDu-X101J7-uUzB9RJhBF4r8KKsKN4KA9RLSYWhOOFG
 
 # ---- Music API ----
 CONFIG_MUSIC_API_URL = "https://music.yukiapi.site"
-CONFIG_MUSIC_API_KEY = ""           # API key from the music API provider
+CONFIG_MUSIC_API_KEY = "yuki_1518137c41d163e83a649758c1cee93c"           # API key from the music API provider
 
 # Optional Firebase settings (only needed for features that use Firebase)
 CONFIG_FIREBASE_URL = "https://elinamusicrobot-default-rtdb.firebaseio.com/"
