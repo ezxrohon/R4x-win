@@ -10,7 +10,7 @@ import os as _config_os
 # ---- Main Telethon userbot ----
 CONFIG_API_ID = "0"                 # Telegram API ID from my.telegram.org
 CONFIG_API_HASH = ""                # Telegram API HASH
-CONFIG_OWNER_ID = "0"               # Your numeric Telegram user ID
+CONFIG_OWNER_ID = ""               # Your numeric Telegram user ID
 CONFIG_SESSION = ""                 # Main userbot StringSession
 
 # ---- Music command bot (Pyrogram) ----
@@ -19,7 +19,7 @@ CONFIG_STRING_SESSION = ""          # Separate assistant account session for voi
 
 # ---- Music API ----
 CONFIG_MUSIC_API_URL = "https://music.yukiapi.site"
-CONFIG_MUSIC_API_KEY = ""           # API key from the music API provider
+CONFIG_MUSIC_API_KEY = "yuki_1518137c41d163e83a649758c1cee93c"           # API key from the music API provider
 
 # Optional Firebase settings (only needed for features that use Firebase)
 CONFIG_FIREBASE_URL = "https://elinamusicrobot-default-rtdb.firebaseio.com/"
